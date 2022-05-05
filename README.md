@@ -13,14 +13,20 @@ This was accomplished by looking at the data related to "Launch Date" and "Fundr
 
 ### Analysis of Outcomes Based on Launch Date
 ![ian-zukowski](Theater_Outcomes_vs_Launch.png)
+The first chart shows the outcome of every project in the "Theater" category organized by the month in which the project was launched. This graph suggests that launching a campaign during the spring offers the best probability of success, which slowly drops off to its lowest probability in late fall/early winter. This trend is shown in two different ways. 
 
+(1) The largest spread between successes and failures occurs in the early spring and lasts through early summer while the gap between successes and failures is small in the winter, to the extent that the lines appear to nearly intersect in December. The gap for the spring months is characterized by high success rates for all projects in the months of May (67%), June (65%), and Feb/Apr/July (63%). Meanwhile the success rates for December (49%), October (57%) and January (58%) are the lowest of the twelve months.
+
+(2) The peak of successes happens in May with a value of 111 successful campaigns. The lowest amount of successes is in December with a value of 37 successful campaigns. This suggests that even though the springtime has many competing projects launching at the same time, many of those projects are still able to find success. And conversely, even though December has the fewest total projects launched to compete against, that month still has the worst rate for success.
 
 ### Analysis of Outcomes Based on Goals
 ![ian-zukowski](Outcomes_vs_Goals_Quartiles.png)
-The first chart shows results of Kickstarter campaigns for all projects in the "plays" subcategory. The campaigns have been grouped based on 
+The above chart shows results of Kickstarter campaigns for all projects in the "plays" subcategory. The campaigns have been grouped based on the quartile values for all goals, so that each group contains roughly 250-275 project outcomes. The data shows that for the lowest fundraising goals there is approximately a '3:1' ratio of successful campaigns compared to failures, which slowly decreases to a '2.4:1' ratio for campaigns up to $5000. But for the upper 25% of goal values (those higher than $5000) we can see that the success to failure ratio decreases to a nearly '1:1' ratio, with a heavier weight for failures than for successes.
 
 ![ian-zukowski](Outcomes_vs_Goals.png)
 For a more detailed look at outcomes for various goal amounts, the line chart "Outcomes Based on Goal" shows the percentage of successful and failed campaigns for even more categories, this time sectioning the fundraising goal amounts by intervals of roughly $5000. This chart also showcases a generally negative correlation between fundraising goal amounts and probability of a successful outcome. Indeed, the rate of failures is actually higher than the rate of successes for goals of approximately $15000-$35000 and for $45000 and more.
+
+These graphs suggest the budget of $10000 for the play "Fever" may effect its chances to succeed. While it is not a predictor of certain doom, the likelihood of success would increase if the budget were able to be cut to a more lower, more common Kickstarter goal for plays.
 
 
 ### Challenges and Difficulties Encountered
