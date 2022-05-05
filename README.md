@@ -14,11 +14,12 @@ This was accomplished by looking at the data related to "Launch Date" and "Fundr
 ### Analysis of Outcomes Based on Launch Date
 ![ian-zukowski](Theater_Outcomes_vs_Launch.png)
 
-The first chart shows the outcome of every project in the "Theater" category organized by the month in which the project was launched. This graph suggests that launching a campaign during the spring offers the best probability of success, which slowly drops off to its lowest probability in late fall/early winter. This trend is shown in two different ways. 
+This first chart shows the outcome of every project in the "Theater" category organized by the month in which the project was launched. This graph suggests that launching a campaign during the spring offers the best probability of success, which slowly drops off to its lowest probability in late fall/early winter. This trend is shown in two different ways. 
 
-(1) The largest spread between successes and failures occurs in the early spring and lasts through early summer while the gap between successes and failures is small in the winter, to the extent that the lines appear to nearly intersect in December. The gap for the spring months is characterized by high success rates for all projects in the months of May (67%), June (65%), and Feb/Apr/July (63%). Meanwhile the success rates for December (49%), October (57%) and January (58%) are the lowest of the twelve months.
+(1) The peak of successes happens in May with a value of 111 successful campaigns. The lowest amount of successes is in December with a value of 37 successful campaigns. This suggests that even though the springtime has many competing projects launching at the same time, many of those projects are still able to find success. And conversely, even though December has the fewest total projects launched to compete against, that month still has the worst rate for success.
 
-(2) The peak of successes happens in May with a value of 111 successful campaigns. The lowest amount of successes is in December with a value of 37 successful campaigns. This suggests that even though the springtime has many competing projects launching at the same time, many of those projects are still able to find success. And conversely, even though December has the fewest total projects launched to compete against, that month still has the worst rate for success.
+(2) The largest spread between successes and failures occurs in the early spring and lasts through early summer while the gap between successes and failures is small in the winter, to the extent that the lines appear to nearly intersect in December. The gap for the spring months is characterized by high success rates for all projects in the months of May (67%), June (65%), and Feb/Apr/July (63%). Meanwhile the success rates for December (49%), October (57%) and January (58%) are the lowest of the twelve months.
+
 
 ### Analysis of Outcomes Based on Goals
 ![ian-zukowski](Outcomes_vs_Goals_Quartiles.png)
