@@ -52,17 +52,21 @@ To counteract this problem, I went beyond the requirements and grouped the resul
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-(1) The peak of successes happens in May with a value of 111 successful campaigns. The lowest amount of successes is in December with a value of 37 successful campaigns. This suggests that even though the springtime has many competing projects launching at the same time, many of those projects are still able to find success. And conversely, even though December has the fewest total projects launched to compete against, that month still has the worst rate for success.
 
-(2) The largest spread between successes and failures occurs in the early spring and lasts through early summer while the gap between successes and failures is small in the winter, to the extent that the lines appear to nearly intersect in December. The gap for the spring months is characterized by high success rates for all projects in the months of May (67%), June (65%), and Feb/Apr/July (63%). Meanwhile the success rates for December (49%), October (57%) and January (58%) are the lowest of the twelve months.
+The peak of successes happens in May with a value of 111 successful campaigns. The lowest amount of successes is in December with a value of 37 successful campaigns. This suggests that even though the springtime has many competing projects launching at the same time, many of those projects are still able to find success. And conversely, even though December has the fewest total projects launched to compete against, that month still has the worst rate for success.
+
+The largest spread between successes and failures occurs in the early spring and lasts through early summer while the gap between successes and failures is small in the winter, to the extent that the lines appear to nearly intersect in December. The gap for the spring months is characterized by high success rates for all projects in the months of May (67%), June (65%), and Feb/Apr/July (63%). Meanwhile the success rates for December (49%), October (57%) and January (58%) are the lowest of the twelve months.
 
 
 - What can you conclude about the Outcomes based on Goals?
+
 There is a negative correlation between fundraising goal amounts and probability of a successful outcome. The rate of failures is actually higher than the rate of successes for goals of approximately $15000-$35000 and for $45000 and more.
 
 
 - What are some limitations of this dataset?
+
 The biggest limitation of the dataset is a lack of campaigns with very high goal amounts. Since Louise currently has a budget of about $10000 it would be beneficial to have more campaigns with a similar goal to gather data from. Instead we are forced to draw our conclusions from mostly campaigns with less than half of her goal amount.
 
 - What are some other possible tables and/or graphs that we could create?
+
 We could create some bar charts or histograms to show data based on equal amounts of campaigns, be that based on quartiles or percentile chunks of the data. We could also potentially use some pie charts to directly compare "Success" to "Failure" amounts based on different ranges of data. 
