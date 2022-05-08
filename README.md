@@ -47,7 +47,7 @@ The other big challenge I found with the "Outcomes Based on Goal" graph is that 
 
 This distribution is not even suggested in the "Outcomes Based on Goal" graph. On that line chart, the first individual data point (projects <$1000) actually represents more projects (186) than the final 9 data points (projects >$10000) all combined (158). It struck me as a problem that 15% of the projects were taking up 75% of the line graph's space.
 
-To counteract this problem, I went beyond the requirements and grouped the results in categories based on the quartiles (0,1500,3000,7000,-----). Then I created a bar chart to still directly compare the successful vs failed campaigns. While it covers less categories than the line chart, I believe that it still conveys the same negative correlation which the line chart does, while not implying that a sample of n=6 has a similar confidence level to a sample of n=186.
+To counteract this problem, I went beyond the requirements and grouped the results in categories based on the quartiles (0,1500,3000,7000,200000). Then I created a bar chart to still directly compare the successful vs failed campaigns. While it covers less categories than the line chart, I believe that it still conveys the same negative correlation which the line chart does, while not implying that a sample of n=6 has a similar confidence level to a sample of n=186.
 
 ## Results
 
